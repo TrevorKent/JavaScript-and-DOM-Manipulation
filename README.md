@@ -31,4 +31,4 @@ Write code that will create a table dynamically based upon a [dataset provide](S
 - - -
 
 # Results
-[Web Page App Screen.jpg](images/capture1.jpg)
+![Web Page App Screen.jpg](images/capture1.jpg)
