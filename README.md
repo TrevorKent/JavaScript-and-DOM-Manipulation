@@ -2,13 +2,13 @@
 
 ## Objective
 
-Write code that will create a table dynamically based upon a [dataset provide](StarterCode/static/js/data.js). Also need to allow  users to filter the table data for specific values. For this project we will be using JavaScript, HTML, and CSS, and D3.js on our web pages.
+Write code that will create a table dynamically based on UFO data set. Also need to allow  users to filter the table data for specific values. For this project we will be using JavaScript, HTML, and CSS, and D3.js on our web pages.
 
 ## Project Tasks
 
 ### Task1 1: Automatic Table and Date Search
 
-* Create a basic HTML web page or use the [index.html](StarterCode/index.html) file provided (we recommend building your own custom page!).
+* Create a basic HTML.
 
 * Using the UFO dataset provided in the form of an array of JavaScript objects, write code that appends a table to your web page and then adds new rows of data for each UFO sighting.
 
