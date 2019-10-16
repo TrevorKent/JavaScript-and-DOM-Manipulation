@@ -26,3 +26,4 @@ Create a table dynamically based on UFO data set. Allow users to filter the tabl
 
 # Results
 ![Capture1.jpg](https://github.com/TrevorKent/JavaScript-and-DOM-Manipulation/blob/master/Images/Capture1.JPG)
+![Capture2.jpg](https://github.com/TrevorKent/JavaScript-and-DOM-Manipulation/blob/master/Images/Capture2.JPG)
