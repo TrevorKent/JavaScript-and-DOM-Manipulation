@@ -25,4 +25,4 @@ Create a table dynamically based on UFO data set. Allow users to filter the tabl
 - - -
 
 # Results
-![Capture1.jpg](Images/Capture1.jpg)
+![Capture1.jpg](/Images/Capture1.jpg)
